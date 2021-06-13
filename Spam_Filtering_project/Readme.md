@@ -6,7 +6,7 @@ performance of the classifier.
 
 # This application can be run using docker
 Please Follow the steps below.
-## 1. use "docker pull gmashik/spamfilter" to download the image 
-## 2. use "docker run -p 8888:8888 gmashik/spamfilter" to launch the note book 
-## 3. visit <a href="https://github.com/gmashik/Docker/tree/main/SMSspam_filter_project"> here <a/> get the Docker file.
+### 1. use "docker pull gmashik/spamfilter" to download the image 
+### 2. use "docker run -p 8888:8888 gmashik/spamfilter" to launch the note book 
+### 3. visit <a href="https://github.com/gmashik/Docker/tree/main/SMSspam_filter_project"> here <a/> get the Docker file.
 
