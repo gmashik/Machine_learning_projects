@@ -5,7 +5,7 @@ We used python natural language processing Toolkit used to build the model. Cust
 and text analysis. Grid Search technique used to find best model hyperparameter. We used ensemble techniques to improve the
 performance of the classifier.
 
-# This application can be run using docker
+# This code can be run using docker
 Please Follow the steps below.
 ### 1. use "docker pull gmashik/spamfilter" to download the image 
 ### 2. use "docker run -p 8888:8888 gmashik/spamfilter" to launch the notebook 
